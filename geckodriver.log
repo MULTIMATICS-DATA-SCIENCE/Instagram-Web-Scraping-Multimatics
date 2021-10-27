@@ -1,0 +1,529 @@
+1634635379846	geckodriver	INFO	Listening on 127.0.0.1:56052
+1634635383523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56053" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileUXmxQD"
+1634635420187	geckodriver	INFO	Listening on 127.0.0.1:63471
+1634635423797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63472" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofile0BEX1C"
+1634635424433	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofile0BEX1C\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63472/devtools/browser/deecf9ab-dea6-4586-823c-14b57bfab900
+1634635428359	Marionette	INFO	Listening on port 61138
+1634635428647	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634778980090	geckodriver	INFO	Listening on 127.0.0.1:63425
+1634778983702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63426" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileb6U4lL"
+1634778984465	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileb6U4lL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63426/devtools/browser/d9fa1702-cbbf-4b4e-84b4-8ff86c581a2e
+1634778988270	Marionette	INFO	Listening on port 63432
+1634778988537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634779130689	geckodriver	INFO	Listening on 127.0.0.1:61719
+1634779134276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61720" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileu9ElSn"
+1634779134888	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileu9ElSn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:61720/devtools/browser/0df65936-00f3-48b4-a96c-efe8b53d4a91
+1634779138301	Marionette	INFO	Listening on port 61727
+1634779138476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1634779219589	geckodriver	INFO	Listening on 127.0.0.1:55284
+1634779223165	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55285" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofiler41tsq"
+1634779223708	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofiler41tsq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55285/devtools/browser/0a8c7125-d630-442e-b893-a906db57798f
+1634779227197	Marionette	INFO	Listening on port 55290
+1634779227386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1634779566063	geckodriver	INFO	Listening on 127.0.0.1:56659
+1634779569732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56660" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileB9SDZD"
+1634779570331	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileB9SDZD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56660/devtools/browser/228af09e-e30b-48f3-aa8b-e9ef0a5237d4
+1634779574349	Marionette	INFO	Listening on port 62522
+1634779574577	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1634779822061	geckodriver	INFO	Listening on 127.0.0.1:52670
+1634779825643	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52671" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileQpbyjE"
+1634779826234	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileQpbyjE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52671/devtools/browser/549c166f-f2ce-4866-be5b-f178a61f9d73
+1634779829816	Marionette	INFO	Listening on port 54106
+1634779829891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1634780225097	geckodriver	INFO	Listening on 127.0.0.1:49547
+1634780228687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49548" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofilew4Ymdq"
+1634780229260	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofilew4Ymdq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49548/devtools/browser/fad505b3-0db0-45d4-b5fa-42a50642c235
+1634780232651	Marionette	INFO	Listening on port 53674
+1634780232894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1634781240837	geckodriver	INFO	Listening on 127.0.0.1:56449
+1634781244452	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56450" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofilePw0QUB"
+1634781245091	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofilePw0QUB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56450/devtools/browser/0b972282-e99b-4c27-a98e-0e41d3ce2838
+1634781249189	Marionette	INFO	Listening on port 59493
+1634781249279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/static/bundles/es6/Consumer.js/f183e73cb5ee.js, line 42: OZ_SOURCE_BUFFER: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: https://www.instagram.com/static/bundles/es6/oz-player.main.js/80390ebefc5b.js, line 33: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1634781570588	geckodriver	INFO	Listening on 127.0.0.1:49226
+1634781574252	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49227" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileVR4cSU"
+1634781574947	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileVR4cSU\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49227/devtools/browser/728ff8e1-c728-4253-bfed-1278570e7a50
+1634781579336	Marionette	INFO	Listening on port 64165
+1634781579586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634781856719	geckodriver	INFO	Listening on 127.0.0.1:60262
+1634781860286	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60263" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileUHK1sW"
+1634781860916	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileUHK1sW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60263/devtools/browser/120fd994-ec1c-4f85-baac-171d2d5fd9c0
+1634781864443	Marionette	INFO	Listening on port 61236
+1634781864521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1634781990257	geckodriver	INFO	Listening on 127.0.0.1:57031
+1634781993844	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57032" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofilewm2BX8"
+1634781994404	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofilewm2BX8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57032/devtools/browser/9872c5d6-aab8-48a6-a6e1-2a3572f02b95
+1634781998090	Marionette	INFO	Listening on port 53242
+1634781998167	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1634782128285	geckodriver	INFO	Listening on 127.0.0.1:62415
+1634782131937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62416" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileRJ1zGh"
+1634782132745	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileRJ1zGh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62416/devtools/browser/f9abc6d8-8e21-4e0c-aacf-bbd5a68a1ccb
+1634782137169	Marionette	INFO	Listening on port 54990
+1634782137318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1634782333166	geckodriver	INFO	Listening on 127.0.0.1:63374
+1634782347358	geckodriver	INFO	Listening on 127.0.0.1:50965
+1634782350924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50966" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileQcl3Y3"
+1634782351510	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileQcl3Y3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50966/devtools/browser/c1eb4bfd-daef-4fd3-b059-8f7510faaaa0
+1634782354990	Marionette	INFO	Listening on port 49177
+1634782355163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1634782781996	geckodriver	INFO	Listening on 127.0.0.1:57934
+1634782785573	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57935" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileCUBf1W"
+1634782786168	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileCUBf1W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57935/devtools/browser/31e9b5d3-76a7-40a7-9f03-c5df0dd54f28
+1634782789673	Marionette	INFO	Listening on port 59491
+1634782789805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1634782941650	geckodriver	INFO	Listening on 127.0.0.1:52105
+1634782945204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52106" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileblnOec"
+1634782945804	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileblnOec\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52106/devtools/browser/e9f2764b-70ee-4c3b-a137-897a10aa1915
+1634782949143	Marionette	INFO	Listening on port 49899
+1634782949444	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1634783183552	geckodriver	INFO	Listening on 127.0.0.1:56435
+1634783187144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56436" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileJyp1lx"
+1634783187738	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileJyp1lx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56436/devtools/browser/9f7f3331-4857-4664-8030-54638b3c9616
+1634783191229	Marionette	INFO	Listening on port 57916
+1634783191344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1634783479859	geckodriver	INFO	Listening on 127.0.0.1:58600
+1634783483396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58601" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileR1IhwE"
+1634783483984	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileR1IhwE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58601/devtools/browser/83a58636-494b-41c2-8da0-4f8cba370d15
+1634783487443	Marionette	INFO	Listening on port 57135
+1634783487590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1634783798556	geckodriver	INFO	Listening on 127.0.0.1:51956
+1634783802145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51957" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofile6Cc5qG"
+1634783802728	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofile6Cc5qG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51957/devtools/browser/d9e8eb94-773d-4f5f-9823-f15212f8ba99
+1634783806170	Marionette	INFO	Listening on port 57535
+1634783806348	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1634783834638	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1634788437581	geckodriver	INFO	Listening on 127.0.0.1:56835
+1634788441795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56836" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofilegjPCRa"
+1634788443355	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofilegjPCRa\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56836/devtools/browser/c4b56007-0777-4ddd-a814-fa324af141da
+1634788447440	Marionette	INFO	Listening on port 52198
+1634788447653	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634788477218	Marionette	INFO	Stopped listening on port 52198
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1634788485745	geckodriver	INFO	Listening on 127.0.0.1:51554
+1634788489360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51555" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofilet7wGct"
+1634788489964	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofilet7wGct\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+DevTools listening on ws://localhost:51555/devtools/browser/7f9aa777-a788-4dd0-847c-c9e61436600b
+1634788493337	Marionette	INFO	Listening on port 62672
+1634788493581	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634788500661	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1634788501562	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1634788502111	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+1634788531088	Marionette	INFO	Stopped listening on port 62672
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1634788536974	geckodriver	INFO	Listening on 127.0.0.1:58600
+1634788540592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58601" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileKLC1pH"
+1634788541151	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileKLC1pH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58601/devtools/browser/f61ffd2f-94d3-40cc-b93f-82fee1267db6
+1634788544870	Marionette	INFO	Listening on port 49244
+1634788544929	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634788558673	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1634788703686	geckodriver	INFO	Listening on 127.0.0.1:49927
+1634788720502	geckodriver	INFO	Listening on 127.0.0.1:54997
+1634788724111	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54998" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofile6JUERR"
+1634788724691	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofile6JUERR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54998/devtools/browser/8c7da96f-4cfd-48a0-8dc7-15cb555aef97
+1634788728210	Marionette	INFO	Listening on port 64316
+1634788728340	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680023,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1634788741300	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1634789145264	geckodriver	INFO	Listening on 127.0.0.1:52329
+1634789148982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52330" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofile6okIr2"
+1634789149899	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofile6okIr2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52330/devtools/browser/bbc165c9-b10f-4351-a529-06f9dabcda91
+1634789153781	Marionette	INFO	Listening on port 53870
+1634789153862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634789166639	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1634789320832	geckodriver	INFO	Listening on 127.0.0.1:57788
+1634789324437	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57789" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofiles5uhVk"
+1634789325002	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofiles5uhVk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57789/devtools/browser/6667f6e9-fea4-497f-95ff-ecd4f5bbcc3a
+1634789328436	Marionette	INFO	Listening on port 53924
+1634789328623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634789341963	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1634791435765	geckodriver	INFO	Listening on 127.0.0.1:55404
+1634791439368	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55405" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileQTPuHR"
+1634791439955	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileQTPuHR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55405/devtools/browser/eaf2ee4f-c247-4a41-b946-23328e3d5c03
+1634791443909	Marionette	INFO	Listening on port 49271
+1634791444207	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634791477402	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1634792012267	geckodriver	INFO	Listening on 127.0.0.1:63173
+1634792016117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63174" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofile6lTHi1"
+1634792016702	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofile6lTHi1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63174/devtools/browser/5c9938d9-9a8b-4935-bdd7-8ffe97109ad9
+1634792020326	Marionette	INFO	Listening on port 51271
+1634792020422	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634792044225	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1634792370763	geckodriver	INFO	Listening on 127.0.0.1:49321
+1634792374353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49322" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofile74oc2v"
+1634792374926	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofile74oc2v\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49322/devtools/browser/0c16fd0b-9f74-40d7-bdd4-6f9e8d3a3b1e
+1634792378342	Marionette	INFO	Listening on port 63698
+1634792378557	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634795120973	geckodriver	INFO	Listening on 127.0.0.1:51558
+1634795124588	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51559" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileF8I7oN"
+1634795125636	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileF8I7oN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51559/devtools/browser/8bbfa740-fd37-4c41-8536-5c20ccf95556
+1634795130315	Marionette	INFO	Listening on port 59493
+1634795130458	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1634795275348	geckodriver	INFO	Listening on 127.0.0.1:57623
+1634795279177	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57624" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofilebzjq4B"
+1634795279816	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofilebzjq4B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57624/devtools/browser/f657747c-fd1b-4bdd-8fb1-6b6fe13a36ed
+1634795283525	Marionette	INFO	Listening on port 51252
+1634795284011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634795297047	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1634797500600	Marionette	INFO	Stopped listening on port 51252
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1634798628379	geckodriver	INFO	Listening on 127.0.0.1:63196
+1634798631981	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63197" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileevELgt"
+1634798632553	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileevELgt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:63197/devtools/browser/1caad965-da9e-4745-adc4-ed7c7172ac68
+1634798636238	Marionette	INFO	Listening on port 50660
+1634798636306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634798679395	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1634798921135	geckodriver	INFO	Listening on 127.0.0.1:57337
+1634798924784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57338" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofilefDxi8q"
+1634798925362	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofilefDxi8q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57338/devtools/browser/85d5a67d-2c02-4436-855f-3c39958aff1e
+1634798928791	Marionette	INFO	Listening on port 52058
+1634798928991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634798943658	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+1634799089563	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+[Child 14584, MediaDecoderStateMachine #1] WARNING: 16fdeda2f20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1634799643692	geckodriver	INFO	Listening on 127.0.0.1:60514
+1634799647333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60515" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofilecWNsgc"
+1634799648008	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofilecWNsgc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60515/devtools/browser/0e28a6b4-34ee-4ea5-b1e6-b83a86a918c5
+1634799651941	Marionette	INFO	Listening on port 55762
+1634799652193	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+[Child 13100, MediaDecoderStateMachine #1] WARNING: 1fc5694d3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1634799855477	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+[Child 13100, MediaDecoderStateMachine #1] WARNING: 1fc4d1512e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1634800083464	geckodriver	INFO	Listening on 127.0.0.1:58599
+1634800087089	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58605" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofile2wlJzv"
+1634800087680	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofile2wlJzv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58605/devtools/browser/dce0956c-e17c-44a8-b9c5-20a74b18595a
+1634800091459	Marionette	INFO	Listening on port 50132
+1634800091879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634800106642	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+[Child 3508, MediaDecoderStateMachine #1] WARNING: 25695087c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1634800460575	geckodriver	INFO	Listening on 127.0.0.1:50962
+1634800464407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50963" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofiledgt0QX"
+1634800465088	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofiledgt0QX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50963/devtools/browser/062c4a05-0b4c-45af-9e58-161353c583af
+1634800469220	Marionette	INFO	Listening on port 64878
+1634800469723	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634800492269	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+[Child 15696, MediaDecoderStateMachine #1] WARNING: 2047dd41740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15696, MediaDecoderStateMachine #1] WARNING: 20404302580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15696, MediaDecoderStateMachine #1] WARNING: 20404302580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Child 15696, MediaDecoderStateMachine #1] WARNING: 20404302580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 15696, MediaDecoderStateMachine #1] WARNING: 20404302580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1634801409246	geckodriver	INFO	Listening on 127.0.0.1:60203
+1634801412876	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60204" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileWFQk8s"
+1634801413445	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileWFQk8s\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60204/devtools/browser/c8d084e2-1925-4f90-9da6-a8dfc2328986
+1634801417176	Marionette	INFO	Listening on port 61501
+1634801417674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634801430857	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+[Child 14732, MediaDecoderStateMachine #1] WARNING: 2f23f8d5040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1634802651215	geckodriver	INFO	Listening on 127.0.0.1:64585
+1634802654845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64586" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileUhIYB8"
+1634802655472	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofileUhIYB8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:64586/devtools/browser/9c77d6b2-38ad-4eab-8e1c-a6922ec888ad
+1634802659442	Marionette	INFO	Listening on port 50062
+1634802659695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634802674453	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+[Child 16308, MediaDecoderStateMachine #1] WARNING: 2391cb4b200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16308, MediaDecoderStateMachine #1] WARNING: 2391b3764a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Child 16308, MediaDecoderStateMachine #1] WARNING: 2391caccf20 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16308, MediaDecoderStateMachine #1] WARNING: 239197552e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16308, MediaDecoderStateMachine #1] WARNING: 2391b34c2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16308, MediaDecoderStateMachine #1] WARNING: 2391e3bf4a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16308, MediaDecoderStateMachine #1] WARNING: 2391deed3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16308, MediaDecoderStateMachine #1] WARNING: 23923ce8d60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+JavaScript error: , line 0: TypeError: Error in body stream
+[Child 16308, MediaDecoderStateMachine #1] WARNING: 2391deed9e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16308, MediaDecoderStateMachine #1] WARNING: 2391b1cc200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 16308, MediaDecoderStateMachine #1] WARNING: 2391ca39ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+1634803930273	geckodriver	INFO	Listening on 127.0.0.1:54020
+1634803934027	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54021" "-no-remote" "-profile" "C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofilebA6ibZ"
+1634803934613	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\afkaa\\AppData\\Local\\Temp\\rust_mozprofilebA6ibZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54021/devtools/browser/fe9e7ba3-6e32-4dcf-bd0f-8948adc1833c
+1634803938286	Marionette	INFO	Listening on port 55494
+1634803938344	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634803950885	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+JavaScript error: https://www.instagram.com/, line 55: TypeError: window.__bufferedErrors is undefined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211e339d200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211e2b66ba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211e1471580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211e33b8040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211e2de6040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211ea5b82e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211e33ba040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211e6a50900 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211df8e2e40 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211e12eb3c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211ea5b8120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211e148e580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211eb54c580 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211e2de6ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211e33b8200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211e2de6ac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211e2d3c040 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211df8e24a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211e6a0dd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211e2d3c120 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211e2d75200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211e33baba0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211e148e660 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211e2de6740 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211e4418c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211e339dac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211e14714a0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211efc11820 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211df8e23c0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211e2d3cd60 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211e33b8200 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211e2d75c80 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211ee3ea2e0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211e6a0dac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
+[Child 12232, MediaDecoderStateMachine #1] WARNING: 211e2d3cac0 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:367
